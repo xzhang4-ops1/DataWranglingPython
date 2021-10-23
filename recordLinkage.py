@@ -31,7 +31,7 @@ import evaluation
 # ******** Uncomment to select a pair of datasets **************
 import saveLinkResult
 
-dataname1 = ["very", "little"]
+
 
 dataNum = ['1000', '10000', '100000']
 # datasetA_name = 'datasets/little-dirty-A-100000.csv'
