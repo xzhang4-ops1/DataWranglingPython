@@ -33,7 +33,7 @@ import saveLinkResult
 
 
 
-dataNum = ['1000', '10000', '100000']
+
 # datasetA_name = 'datasets/little-dirty-A-100000.csv'
 # datasetB_name = 'datasets/little-dirty-B-100000.csv'
 # datasetA_name = 'datasets/clean-A-100000.csv'
